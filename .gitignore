@@ -1,7 +1,7 @@
 natural_images/
 natural_images_resized/
 sobel_images/
-
+Saved_Datasets/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
