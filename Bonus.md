@@ -1,7 +1,7 @@
 # Bonus Tasks - CNN with Laplacian and Prewitt Filters
 In addition to the primary Sobel filter task, few bonus tasks were also implemented. These tasks explore the application of other classical image processing filters, like Prewitt and Laplacian, using CNNs. Furthermore, the project includes visualizations of the CNN layer activations too.
 
-The complete code can be found in `bonus-hackathon.ipynb` file.
+The complete code can be found in `Sobel, Laplacian, Prewitt Filter NN.ipynb` file.
 
 
 ## Bonus Task 1: Training the model for Laplacian and Prewitt Filtered Data

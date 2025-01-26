@@ -6,7 +6,7 @@ This project involves developing a Convolutional Neural Network (CNN) that learn
 
 The project also explores other classical filters like Laplacian and Prewitt filters in the bonus section.
 
-The complete code can be found in `sobel-hackathon.ipynb` file. All the preprocessing and splitting data into train and test sets has been done in the `preprocessing.ipynb` file.
+The complete code can be found in `Sobel Filter (LR).ipynb` file. All the preprocessing and splitting data into train and test sets has been done in the `preprocessing.ipynb` file.
 
 The project is divided into several key tasks:
 
@@ -103,5 +103,5 @@ After training for 10 epochs, the model achieved the following performance:
 This project demonstrates how a CNN can learn to approximate the Sobel filter, a classical edge detection algorithm. The results show that the network can effectively mimic the Sobel filter's functionality, providing insight into how CNNs can generalize traditional image processing techniques.
 
 ## Bonus Tasks
-The bonus tasks have been implemented in the `bonus-hackathon.py` file. Refer to `Bonus.md` for more details regarding the bonus tasks.
+The bonus tasks have been implemented in the `Sobel, Laplacian, Prewitt Filter NN.ipynb` file. Refer to `Bonus.md` for more details regarding the bonus tasks.
 
