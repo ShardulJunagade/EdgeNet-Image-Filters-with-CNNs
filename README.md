@@ -35,7 +35,10 @@ Extend your project by applying the same approach to other classical image filte
     ```bash
     pip install -r requirements.txt
     ```
-3. Open the Notebook: Start Jupyter Notebook or another compatible environment and open the `sobel-hackathon.ipynb` file for running the code.
+3. Download the natural images dataset from [kaggle](https://www.kaggle.com/datasets/prasunroy/natural-images).
+4. Run the `preprocessing.ipynb` to create the train and test datasets.
+5. Open the Notebook: Start Jupyter Notebook or another compatible environment and open the `sobel-hackathon.ipynb` file for running the code for Sobel filter.
+6. The code for Laplacian and Prewitt filters is present in `bonus-hackathon.ipynb`.
 
 
 #
