@@ -1,10 +1,10 @@
-# What the Hack: Machine Learning Hackathon
+# EdgeNet: Image Filters with CNNs
 
 This repository contains my submission for the "What The Hack" ML hackathon organized by the Technical Council at IIT Gandhinagar on 1 September, 2024.
 
 - Name: Shardul Junagade
 - Batch: BTech CSE '23
-- Roll Number: 23110297
+<!-- - Roll Number: 23110297 -->
 
 ### Link to Kaggle Notebooks: 
 - [Sobel, Laplacian, Prewitt Filter NN](https://www.kaggle.com/code/sharduljunagade/sobel-laplacian-prewitt-filter-nn)
@@ -150,7 +150,10 @@ This project demonstrates how a CNN can learn to approximate the Sobel filter, a
 The bonus tasks have been implemented in the `Sobel, Laplacian, Prewitt Filter NN.ipynb` file. Refer to `Bonus.md` for more details regarding the bonus tasks.
 
 
-
-
 ## Acknowledgments
 This project was created as part of a hackathon submission. Thanks to the Technical Council of IITGN (hackathon organizers) for providing me with the opportunity to work on this project.
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
